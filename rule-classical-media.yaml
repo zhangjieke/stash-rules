@@ -1,0 +1,9 @@
+payload:
+  - PROCESS-NAME,Emby
+  - PROCESS-NAME,Terminus Player
+  - PROCESS-NAME,QtWebEngineProcess
+  - PROCESS-NAME,Infus
+  - PROCESS-NAME,Jellfin Media Player
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,MediaCenter
+  - DOMAIN-KEYWORD,emby

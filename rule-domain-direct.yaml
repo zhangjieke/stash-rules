@@ -1,0 +1,58 @@
+payload:
+ - '+.126.net'
+ - '+.163.com'
+ - '+.360buyimg.com'
+
+ - '+.aliapp.org'
+ - '+.alicdn.com'
+ - '+.alipan.com'
+ - '+.alipay.com'
+ - '+.aliyundrive.com'
+ - '+.aliyun.com'
+
+ - '+.apple.com.cn'
+ - '+.apple.cn'
+ - '+.apple.com'
+ - '+.apple-cloudkit.com'
+ - '+.autonavi.com'
+
+ - '+.axshare.com'
+ - '+.axure.cloud'
+ - '+.axure.com'
+
+ - '+.baidu.com'
+ - '+.bcebos.com'
+ - '+.bdimg.com'
+ - '+.bdstatic.com'
+
+ - '+.chinaz.com'
+ - '+.cip.cc'
+
+ - '+.feishucdn.com'
+ - '+.geekbang.org'
+
+ - '+.icloud.com.cn'
+ - '+.icloud.com'
+
+ - '+.manmanbuy.com'
+
+ - '+.qq.com'
+
+ - '+.sandai.net'
+ - '+.sojson.com'
+ - '+.staticfile.org'
+
+ - '+.taobao.com'
+ - '+.teamviewer.cn'
+ - '+.teamviewer.com'
+ - '+.tmall.com'
+
+ - '+.yinxiang.com'
+
+ - '+.zuyushop.com'
+
+ # Xbox
+ - '+.xboxlive.cn'
+ - '+.xboxlive.com'
+ - '+.gamepass.com'
+ - '+.xboxgamepass.com'

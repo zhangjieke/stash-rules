@@ -147,6 +147,10 @@ payload:
   - '+.matetranslate.com'
   - '+.youtube.com'
   - '+.v2ex.com'
+
+  # Meta facebook
   - '+.llama.com'
+  - '+.fbsbx.com'
+  - '+.fbcdn.net'
 
   - '+.海豚湾.com'

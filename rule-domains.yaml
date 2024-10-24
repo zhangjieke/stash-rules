@@ -139,6 +139,7 @@ payload:
   - '+.reddit.com'
   - '+.redd.it'
   - '+.redditmedia.com'
+  - '+.redditstatic.com'
   - '+.quoracdn.net'
   - '+.quora.com'
   - '+.paddle.com'

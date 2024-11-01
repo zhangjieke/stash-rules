@@ -114,6 +114,7 @@ payload:
   - '+.googleapis.com'
   - '+.google.com'
   - '+.googletagmanager.com'
+  - '+.gstatic.com'
   - '+.uscardforum.com'
   - '+.x.com'
   - '+.51cg1.com'

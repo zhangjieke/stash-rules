@@ -137,10 +137,6 @@ payload:
   - '+.axure.cloud'
   - '+.axure.com'
   - '+.keychron.com'
-  - '+.reddit.com'
-  - '+.redd.it'
-  - '+.redditmedia.com'
-  - '+.redditstatic.com'
   - '+.quoracdn.net'
   - '+.quora.com'
   - '+.paddle.com'
@@ -149,6 +145,14 @@ payload:
   - '+.matetranslate.com'
   - '+.youtube.com'
   - '+.v2ex.com'
+  - '+.criteo.net'
+
+  # Reddit
+  - '+.reddit.com'
+  - '+.redd.it'
+  - '+.redditmedia.com'
+  - '+.redditstatic.com'
+  - '+.redditspace.com'
 
   # Meta facebook
   - '+.atdmt.com'

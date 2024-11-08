@@ -115,6 +115,8 @@ payload:
   - '+.google.com'
   - '+.googletagmanager.com'
   - '+.gstatic.com'
+  - '+.gstatic.cn'
+  - '+.recaptcha.net'
   - '+.uscardforum.com'
   - '+.x.com'
   - '+.51cg1.com'

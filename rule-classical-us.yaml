@@ -1,6 +1,6 @@
 payload:
-  - PROCESS-NAME,Microsoft Edge Dev,US
-  - PROCESS-NAME,Microsoft Edge Helper,US
-  - DOMAIN-KEYWORD,claude,US
-  - DOMAIN-SUFFIX,chatgpt.com,US
-  - DOMAIN-SUFFIX,openai.com,US
+  - PROCESS-NAME,Microsoft Edge Dev
+  - PROCESS-NAME,Microsoft Edge Helper
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com

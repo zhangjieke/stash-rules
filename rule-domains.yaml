@@ -19,6 +19,7 @@ payload:
   - '+.plus'
   - '+.pub'
   - '+.py'
+  - '+.rs'
   - '+.tv'
   - '+.tw'
   - '+.top'

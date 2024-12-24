@@ -150,6 +150,7 @@ payload:
   - '+.youtube.com'
   - '+.v2ex.com'
   - '+.criteo.net'
+  - '+.sliceengineering.com'
 
   # Reddit
   - '+.reddit.com'

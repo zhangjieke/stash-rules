@@ -152,6 +152,14 @@ payload:
   - '+.v2ex.com'
   - '+.criteo.net'
   - '+.sliceengineering.com'
+  - '+.behance.net'
+  - '+.adobe.com'
+  - '+.adobedtm.com'
+  - '+.adobetag.com'
+  - '+.adobetm.com'
+  - '+.adobetracking.com'
+  - '+.adobelogin.com'
+  - '+.typekit.net'
 
   # Reddit
   - '+.reddit.com'

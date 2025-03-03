@@ -1,8 +1,9 @@
 payload:
+# 网易
  - '+.126.net'
  - '+.163.com'
- - '+.360buyimg.com'
 
+ # 阿里
  - '+.aliapp.org'
  - '+.alibaba.com'
  - '+.alicdn.com'
@@ -10,13 +11,18 @@ payload:
  - '+.alipay.com'
  - '+.aliyundrive.com'
  - '+.aliyun.com'
+ - '+.autonavi.com'
+ - '+.dingtalkapps.com'
 
+ # 苹果
  - '+.apple.com.cn'
  - '+.apple.cn'
  - '+.apple.com'
  - '+.apple-cloudkit.com'
- - '+.autonavi.com'
+ - '+.icloud.com.cn'
+ - '+.icloud.com'
 
+ # 百度
  - '+.baidu.com'
  - '+.bcebos.com'
  - '+.bdimg.com'
@@ -25,16 +31,32 @@ payload:
  - '+.chinaz.com'
  - '+.cip.cc'
 
+ # 字节
+ - '+.bytedance.com'
+ - '+.bytegoofy.com'
+ - '+.byteimg.com'
+ - '+.bytescm.com'
+ - '+.bytetos.com'
  - '+.feishucdn.com'
+ - '+.feishu.cn'
+ - '+.zijieapi.com'
+
  - '+.geekbang.org'
 
- - '+.icloud.com.cn'
- - '+.icloud.com'
 
  - '+.manmanbuy.com'
 
- - '+.qq.com'
+ # 京东
+ - '+.jd.com'
+ - '+.360buyimg.com'
+ - '+.360buy.com'
+
+
+ # 腾讯
  - '+.idqqimg.com'
+ - '+.qlogo.cn'
+ - '+.qq.com'
+ - '+.qpic.cn'
 
  - '+.sandai.net'
  - '+.sojson.com'

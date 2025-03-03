@@ -21,6 +21,7 @@ payload:
   - '+.pub'
   - '+.py'
   - '+.rs'
+  - '+.site'
   - '+.tv'
   - '+.tw'
   - '+.top'

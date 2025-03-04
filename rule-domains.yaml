@@ -183,7 +183,5 @@ payload:
   - '+.facebookmail.com'
   - '+.llama.com'
   - '+.parse.com'
-  # 字节海外
-  - '+.byteoversea.com'
 
   - '+.海豚湾.com'

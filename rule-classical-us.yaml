@@ -4,3 +4,6 @@ payload:
   - DOMAIN-KEYWORD,claude,US
   - DOMAIN-SUFFIX,chatgpt.com,US
   - DOMAIN-SUFFIX,openai.com,US
+  - DOMAIN-KEYWORD,byteoversea,US
+  - PROCESS-NAME,Trae,US
+  - PROCESS-NAME,Trae Helper,US

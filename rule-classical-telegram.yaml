@@ -25,3 +25,7 @@ payload:
   - IP-CIDR6,2001:b28:f23d::/48,Telegram,no-resolve
   - IP-CIDR6,2001:b28:f23f::/48,Telegram,no-resolve
   - IP-CIDR6,2a0a:f280::/32,Telegram,no-resolve
+  # Twitter
+  - DOMAIN-KEYWORD,twitter,Telegram
+  - DOMAIN-SUFFIX,twimg.com,Telegram
+  - DOMAIN-SUFFIX,x.com,Telegram

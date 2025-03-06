@@ -161,6 +161,7 @@ payload:
   - '+.adobetracking.com'
   - '+.adobelogin.com'
   - '+.typekit.net'
+  - '+.medium.com'
 
   # Reddit
   - '+.reddit.com'

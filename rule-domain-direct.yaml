@@ -23,6 +23,7 @@ payload:
  - '+.apple.com.cn'
  - '+.apple.cn'
  - '+.apple.com'
+ - '+.cdn-apple.com'
  - '+.apple-cloudkit.com'
  - '+.icloud.com.cn'
  - '+.icloud.com'

@@ -2,6 +2,7 @@ payload:
 # 网易
  - '+.126.net'
  - '+.163.com'
+ - '+.netease.com'
 
  # 阿里
  - '+.aliapp.org'
@@ -13,7 +14,10 @@ payload:
  - '+.aliyun.com'
  - '+.aliyuncs.com'
  - '+.autonavi.com'
+ - '+.dingtalk.com'
  - '+.dingtalkapps.com'
+ - '+.taobao.com'
+ - '+.tmall.com'
 
  # 苹果
  - '+.apple.com.cn'
@@ -59,16 +63,15 @@ payload:
  - '+.idqqimg.com'
  - '+.qlogo.cn'
  - '+.qq.com'
+ - '+.qq.com.cn'
  - '+.qpic.cn'
 
  - '+.sandai.net'
  - '+.sojson.com'
  - '+.staticfile.org'
 
- - '+.taobao.com'
  - '+.teamviewer.cn'
  - '+.teamviewer.com'
- - '+.tmall.com'
 
  - '+.yinxiang.com'
 

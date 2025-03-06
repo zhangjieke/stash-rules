@@ -11,6 +11,7 @@ payload:
  - '+.alipay.com'
  - '+.aliyundrive.com'
  - '+.aliyun.com'
+ - '+.aliyuncs.com'
  - '+.autonavi.com'
  - '+.dingtalkapps.com'
 
@@ -30,6 +31,7 @@ payload:
 
  - '+.chinaz.com'
  - '+.cip.cc'
+ - '+.digicert.com'
 
  # 字节
  - '+.bytedance.com'
@@ -53,6 +55,7 @@ payload:
 
 
  # 腾讯
+ - '+.tencent.com'
  - '+.idqqimg.com'
  - '+.qlogo.cn'
  - '+.qq.com'
@@ -70,6 +73,9 @@ payload:
  - '+.yinxiang.com'
 
  - '+.zuyushop.com'
+
+ # 知乎
+ - '+.zhihu.com'
 
  # Xbox
  - '+.xboxlive.cn'

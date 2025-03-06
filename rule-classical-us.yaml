@@ -2,8 +2,14 @@ payload:
   - PROCESS-NAME,Microsoft Edge Dev,US
   - PROCESS-NAME,Microsoft Edge Helper,US
   - DOMAIN-KEYWORD,claude,US
+  # ChatGPT
+  - PROCESS-NAME,ChatGPT,US
   - DOMAIN-SUFFIX,chatgpt.com,US
   - DOMAIN-SUFFIX,openai.com,US
+  - DOMAIN-SUFFIX,us.sentry.io,US
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com,US
+  - DOMAIN-SUFFIX,segment.io,US
+  - DOMAIN-SUFFIX,oaistatic.com,US
   # Trae
   - PROCESS-NAME,Trae,US
   - PROCESS-NAME,Trae Helper,US

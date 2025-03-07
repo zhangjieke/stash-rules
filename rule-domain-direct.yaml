@@ -62,10 +62,13 @@ payload:
  # 腾讯
  - '+.tencent.com'
  - '+.idqqimg.com'
+ - '+.cdn-go.cn'
  - '+.qlogo.cn'
  - '+.qq.com'
  - '+.qq.com.cn'
  - '+.qpic.cn'
+ - '+.gtimg.com'
+ - '+.tcdnos.com'
 
  - '+.sandai.net'
  - '+.sojson.com'
@@ -80,6 +83,9 @@ payload:
 
  # 知乎
  - '+.zhihu.com'
+
+ # 微软中国
+ - '+.outlook.office365.com'
 
  # Xbox
  - '+.xboxlive.cn'

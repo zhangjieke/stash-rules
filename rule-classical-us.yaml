@@ -13,6 +13,10 @@ payload:
   # Trae
   - PROCESS-NAME,Trae,US
   - PROCESS-NAME,Trae Helper,US
+  - PROCESS-NAME,ckg_server,US
+  - PROCESS-NAME,ai,US
   - DOMAIN-KEYWORD,byteoversea,US
   - DOMAIN-SUFFIX,byteintlapi.com,US
+  - DOMAIN-SUFFIX,trae.ai,US
+  - DOMAIN-SUFFIX,ctobsnssdk.com,US
   - DOMAIN-SUFFIX,us.mchost.guru,US

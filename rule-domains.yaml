@@ -164,6 +164,7 @@ payload:
   - '+.adobelogin.com'
   - '+.typekit.net'
   - '+.medium.com'
+  - '+.posthog.com'
 
   # Reddit
   - '+.reddit.com'

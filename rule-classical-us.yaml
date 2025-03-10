@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,Microsoft Edge,US
   - PROCESS-NAME,Microsoft Edge Dev,US
   - PROCESS-NAME,Microsoft Edge Helper,US
   - DOMAIN-KEYWORD,claude,US

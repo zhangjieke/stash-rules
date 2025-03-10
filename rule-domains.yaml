@@ -23,6 +23,7 @@ payload:
   - '+.py'
   - '+.rs'
   - '+.site'
+  - '+.so'
   - '+.tv'
   - '+.tw'
   - '+.top'

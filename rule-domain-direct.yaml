@@ -7,17 +7,21 @@ payload:
  # 阿里
  - '+.aliapp.org'
  - '+.alibaba.com'
+ - '+.alibaba-inc.com'
  - '+.alicdn.com'
  - '+.alipan.com'
  - '+.alipay.com'
+ - '+.alipayobjects.com'
  - '+.aliyundrive.com'
  - '+.aliyun.com'
  - '+.aliyuncs.com'
  - '+.autonavi.com'
  - '+.dingtalk.com'
  - '+.dingtalkapps.com'
+ - '+.goofish.com'
  - '+.taobao.com'
  - '+.tmall.com'
+ - '+.youku.com'
 
  # 苹果
  - '+.apple.com.cn'
@@ -72,6 +76,7 @@ payload:
  - '+.gtimg.com'
  - '+.myqcloud.com'
  - '+.tencentsuite.com'
+ - '+.weixinbridge.com'
 
  - '+.sandai.net'
  - '+.sojson.com'
@@ -81,8 +86,31 @@ payload:
  - '+.teamviewer.com'
 
  - '+.yinxiang.com'
-
+ # 未知
  - '+.zuyushop.com'
+ - '+.jpush.cn'
+ - '+.cdnmg.com'
+ - '+.amap.com'
+ - '+.189.cn'
+ - '+.xinqiucc.com'
+ - '+.kuiniuca.com'
+ - '+.onethingpcs.com'
+ - '+.umeng.com'
+ - '+.myqcloud.com'
+
+ # 小米
+ - '+.mi.com'
+ - '+.xiaomi.com'
+ - '+.xiaomi.net'
+ - '+.mijia.tech'
+ - '+.miui.com'
+ - '+.mi-img.com'
+
+ # 金山
+ - '+.ksyuncdn.com'
+
+ # 沃尔玛山姆
+ - '+.walmartmobile.cn'
 
  # 知乎
  - '+.zhihu.com'

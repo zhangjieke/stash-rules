@@ -24,13 +24,14 @@ payload:
  - '+.youku.com'
 
  # 苹果
+ - '+.apple.com'
  - '+.apple.com.cn'
  - '+.apple.cn'
- - '+.apple.com'
- - '+.cdn-apple.com'
+ - '+.apple-dns.cn'
  - '+.apple-cloudkit.com'
- - '+.icloud.com.cn'
+ - '+.cdn-apple.com'
  - '+.icloud.com'
+ - '+.icloud.com.cn'
  - '+.icloud-content.com.cn'
 
  # 百度
@@ -78,6 +79,7 @@ payload:
  - '+.myqcloud.com'
  - '+.tencentsuite.com'
  - '+.weixinbridge.com'
+ - '+.sougoucom'
 
  - '+.sandai.net'
  - '+.sojson.com'
@@ -119,6 +121,7 @@ payload:
 
  # 微软中国
  - '+.outlook.office365.com'
+ - '+.officeapps.live.com'
 
  # Xbox
  - '+.xboxlive.cn'

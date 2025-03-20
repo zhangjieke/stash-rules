@@ -21,7 +21,14 @@ payload:
  - '+.goofish.com'
  - '+.taobao.com'
  - '+.tmall.com'
+ # 阿里-优酷
  - '+.youku.com'
+ # 夸克/UC
+ - '+.quark.cn'
+ - '+.effirst.com'
+ - '+.ucweb.com'
+ - '+.uc.cn'
+ - '+.ucweb.com'
 
  # 苹果
  - '+.apple.com'

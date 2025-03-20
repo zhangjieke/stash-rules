@@ -45,6 +45,7 @@ payload:
   - '+.dev.to'
   - '+.stackoverflow.com'
   - 'stackoverflow.com'
+  - 'gravatar.com'
   - '+.sstatic.net'
   - '+.mysql.com'
   - 'liuyandong.com'

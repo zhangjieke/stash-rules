@@ -15,7 +15,10 @@ payload:
   - PROCESS-NAME,Trae,US
   - PROCESS-NAME,Trae Helper,US
   - PROCESS-NAME,ckg_server,US
+  - PROCESS-NAME,Electron ,US
   - PROCESS-NAME,ai,US
+  - PROCESS-NAME,ai-agent,US
+  - PROCESS-NAME,ai-completion,US
   - PROCESS-NAME,ckg_server,US
   - DOMAIN-KEYWORD,byteoversea,US
   - DOMAIN-SUFFIX,byteintlapi.com,US

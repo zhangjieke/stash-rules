@@ -16,6 +16,7 @@ payload:
   - PROCESS-NAME,Trae Helper,US
   - PROCESS-NAME,ckg_server,US
   - PROCESS-NAME,ai,US
+  - PROCESS-NAME,ckg_server,US
   - DOMAIN-KEYWORD,byteoversea,US
   - DOMAIN-SUFFIX,byteintlapi.com,US
   - DOMAIN-SUFFIX,trae.ai,US

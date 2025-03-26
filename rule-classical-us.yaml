@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,CherryStudio,US
   - PROCESS-NAME,Cherry Studio,US
   - PROCESS-NAME,Cherry Studio Helper,US
   # Edge

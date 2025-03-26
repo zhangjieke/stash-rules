@@ -170,6 +170,7 @@ payload:
   - '+.typekit.net'
   - '+.medium.com'
   - '+.posthog.com'
+  - '+.auth0.com'
 
   # Reddit
   - '+.reddit.com'

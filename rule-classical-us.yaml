@@ -19,9 +19,10 @@ payload:
   - PROCESS-NAME,ai,US
   - PROCESS-NAME,ai-agent,US
   - PROCESS-NAME,ai-completion,US
-  - PROCESS-NAME,ckg_server,US
   - DOMAIN-KEYWORD,byteoversea,US
   - DOMAIN-SUFFIX,byteintlapi.com,US
   - DOMAIN-SUFFIX,trae.ai,US
   - DOMAIN-SUFFIX,ctobsnssdk.com,US
   - DOMAIN-SUFFIX,us.mchost.guru,US
+  # Gemini
+  - GEOSITE,google-deepmind,US

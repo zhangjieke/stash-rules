@@ -1,7 +1,4 @@
 payload:
-  # - PROCESS-NAME,CherryStudio,US
-  # - PROCESS-NAME,Cherry Studio,US
-  # - PROCESS-NAME,Cherry Studio Helper,US
   # Edge
   - PROCESS-NAME,Microsoft Edge,US
   - PROCESS-NAME,Microsoft Edge Dev,US
@@ -30,4 +27,6 @@ payload:
   - DOMAIN-SUFFIX,ctobsnssdk.com,US
   - DOMAIN-SUFFIX,us.mchost.guru,US
   # Gemini
+  - DOMAIN-KEYWORD,gemini,US
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
   - GEOSITE,google-deepmind,US

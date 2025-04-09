@@ -171,6 +171,7 @@ payload:
   - '+.medium.com'
   - '+.posthog.com'
   - '+.auth0.com'
+  - '+.deepl.com'
 
   # Reddit
   - '+.reddit.com'

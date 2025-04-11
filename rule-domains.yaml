@@ -125,6 +125,7 @@ payload:
   - '+.googleapis.com'
   - '+.google.com'
   - '+.googletagmanager.com'
+  - '+.google-analytics.com'
   - '+.gstatic.com'
   - '+.gstatic.cn'
   - '+.recaptcha.net'

@@ -172,6 +172,7 @@ payload:
   - '+.posthog.com'
   - '+.auth0.com'
   - '+.deepl.com'
+  - '+.tiqcdn.com'
 
   # Reddit
   - '+.reddit.com'

@@ -89,6 +89,13 @@ payload:
  - '+.myqcloud.com'
  - '+.tencentsuite.com'
  - '+.weixinbridge.com'
+ - '+.weixin.com'
+ - '+.wechat.com'
+ - '+.weixinsxy.com'
+ - '+.wechatlegal.net'
+ - '+.servicewechat.com'
+ - '+.wechatpay.com'
+ - '+.tenpay.com'
  - '+.sougoucom'
 
  - '+.sandai.net'

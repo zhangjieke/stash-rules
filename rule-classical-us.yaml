@@ -1,0 +1,32 @@
+payload:
+  # Edge
+  - PROCESS-NAME,Microsoft Edge,US
+  - PROCESS-NAME,Microsoft Edge Dev,US
+  - PROCESS-NAME,Microsoft Edge Helper,US
+  # claude
+  - DOMAIN-KEYWORD,claude,US
+  # ChatGPT
+  - PROCESS-NAME,ChatGPT,US
+  - DOMAIN-SUFFIX,chatgpt.com,US
+  - DOMAIN-SUFFIX,openai.com,US
+  - DOMAIN-SUFFIX,us.sentry.io,US
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com,US
+  - DOMAIN-SUFFIX,segment.io,US
+  - DOMAIN-SUFFIX,oaistatic.com,US
+  # Trae
+  - PROCESS-NAME,Trae,US
+  - PROCESS-NAME,Trae Helper,US
+  - PROCESS-NAME,ckg_server,US
+  - PROCESS-NAME,Electron ,US
+  - PROCESS-NAME,ai,US
+  - PROCESS-NAME,ai-agent,US
+  - PROCESS-NAME,ai-completion,US
+  - DOMAIN-KEYWORD,byteoversea,US
+  - DOMAIN-SUFFIX,byteintlapi.com,US
+  - DOMAIN-SUFFIX,trae.ai,US
+  - DOMAIN-SUFFIX,ctobsnssdk.com,US
+  - DOMAIN-SUFFIX,us.mchost.guru,US
+  # Gemini
+  - DOMAIN-KEYWORD,gemini,US
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
+  - GEOSITE,google-deepmind,US

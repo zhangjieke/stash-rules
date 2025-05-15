@@ -1,0 +1,149 @@
+payload:
+
+ - '+.cn'
+
+# 网易
+ - '+.126.net'
+ - '+.163.com'
+ - '+.netease.com'
+
+ # 阿里
+ - '+.aliapp.org'
+ - '+.alibaba.com'
+ - '+.alibaba-inc.com'
+ - '+.alicdn.com'
+ - '+.alipan.com'
+ - '+.alipay.com'
+ - '+.alipayobjects.com'
+ - '+.aliyundrive.com'
+ - '+.aliyun.com'
+ - '+.aliyuncs.com'
+ - '+.autonavi.com'
+ - '+.dingtalk.com'
+ - '+.dingtalkapps.com'
+ - '+.goofish.com'
+ - '+.taobao.com'
+ - '+.tmall.com'
+ # 阿里-优酷
+ - '+.youku.com'
+ # 夸克/UC
+ - '+.quark.cn'
+ - '+.effirst.com'
+ - '+.ucweb.com'
+ - '+.uc.cn'
+ - '+.ucweb.com'
+
+ # 苹果
+ - '+.apple.com'
+ - '+.apple.com.cn'
+ - '+.apple.cn'
+ - '+.apple-dns.cn'
+ - '+.apple-cloudkit.com'
+ - '+.cdn-apple.com'
+ - '+.icloud.com'
+ - '+.icloud.com.cn'
+ - '+.icloud-content.com.cn'
+
+ # 百度
+ - '+.baidu.com'
+ - '+.bcebos.com'
+ - '+.bdimg.com'
+ - '+.bdstatic.com'
+
+ - '+.chinaz.com'
+ - '+.cip.cc'
+ - '+.digicert.com'
+
+ # 字节
+ - '+.bytedance.com'
+ - '+.bytegoofy.com'
+ - '+.byteimg.com'
+ - '+.bytescm.com'
+ - '+.bytetos.com'
+ - '+.feishucdn.com'
+ - '+.feishu.cn'
+ - '+.zijieapi.com'
+
+ - '+.geekbang.org'
+
+
+ - '+.manmanbuy.com'
+
+ # 京东
+ - '+.jd.com'
+ - '+.360buyimg.com'
+ - '+.360buy.com'
+
+
+ # 腾讯
+ - '+.tencent.com'
+ - '+.idqqimg.com'
+ - '+.cdn-go.cn'
+ - '+.qlogo.cn'
+ - '+.qq.com'
+ - '+.qq.com.cn'
+ - '+.qpic.cn'
+ - '+.gtimg.com'
+ - '+.tcdnos.com'
+ - '+.gtimg.com'
+ - '+.myqcloud.com'
+ - '+.tencentsuite.com'
+ - '+.weixinbridge.com'
+ - '+.weixin.com'
+ - '+.wechat.com'
+ - '+.weixinsxy.com'
+ - '+.wechatlegal.net'
+ - '+.servicewechat.com'
+ - '+.wechatpay.com'
+ - '+.tenpay.com'
+ - '+.sougoucom'
+
+ - '+.sandai.net'
+ - '+.sojson.com'
+ - '+.staticfile.org'
+
+ - '+.teamviewer.cn'
+ - '+.teamviewer.com'
+
+ - '+.yinxiang.com'
+ - '+.aaplimg.com'
+
+ # 未知
+ - '+.zuyushop.com'
+ - '+.jpush.cn'
+ - '+.cdnmg.com'
+ - '+.amap.com'
+ - '+.189.cn'
+ - '+.xinqiucc.com'
+ - '+.kuiniuca.com'
+ - '+.onethingpcs.com'
+ - '+.umeng.com'
+ - '+.myqcloud.com'
+
+ # 小米
+ - '+.mi.com'
+ - '+.xiaomi.com'
+ - '+.xiaomi.net'
+ - '+.mijia.tech'
+ - '+.miui.com'
+ - '+.mi-img.com'
+
+ # 金山
+ - '+.ksyuncdn.com'
+
+ # 沃尔玛山姆
+ - '+.walmartmobile.cn'
+
+ # 知乎
+ - '+.zhihu.com'
+ - '+.zhimg.com'
+
+ # 微软中国
+ - '+.outlook.office365.com'
+ - '+.officeapps.live.com'
+
+ # Xbox
+ - '+.xboxlive.cn'
+ - '+.xboxlive.com'
+ - '+.gamepass.com'
+ - '+.xboxgamepass.com'

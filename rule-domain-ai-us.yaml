@@ -3,6 +3,7 @@ payload:
   - 'generativelanguage.googleapis.com'
 
     # chatgpt
+  - 'chatgpt.com'
   - '+.chatgpt.com'
   - '+.openai.com'
   - '+.us.sentry.io'
@@ -15,6 +16,9 @@ payload:
   - '+.observeit.net'
   - '+.openaiapi-site.azureedge.net'
   - '+.openaicom.imgix.net'
+  - '+.prodregistryv2.org'
+  - '+.featureassets.org'
+
     # sora.com
   - '+.sora.com'
 

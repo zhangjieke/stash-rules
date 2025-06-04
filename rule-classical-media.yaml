@@ -10,7 +10,10 @@ payload:
   # spotify
   - IP-CIDR,35.186.224.47/24
   - IP-CIDR,104.154.127.126/24
+  - IP-CIDR,104.199.241.202/24
+  - IP-CIDR,142.250.71.228/24
   - IP-CIDR,142.250.76.228/24
+  - IP-CIDR,142.250.197.98/24
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotifycdn.com
@@ -18,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,rlcdn.com
   - DOMAIN-SUFFIX,spotify.demdex.net
   - DOMAIN-SUFFIX,api.branch.io
+  - DOMAIN-SUFFIX,rubiconproject.com
   - DOMAIN-KEYWORD,tospotify
   - DOMAIN-KEYWORD,spotilocal
   - DOMAIN-KEYWORD,spotifynewsroom

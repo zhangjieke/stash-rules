@@ -24,6 +24,7 @@ payload:
  - '+.goofish.com'
  - '+.taobao.com'
  - '+.tmall.com'
+ - '+.aliyundrive.cloud'
  # 阿里-优酷
  - '+.youku.com'
  # 夸克/UC

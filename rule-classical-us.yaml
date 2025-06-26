@@ -14,18 +14,20 @@ payload:
   - DOMAIN-SUFFIX,segment.io,US
   - DOMAIN-SUFFIX,oaistatic.com,US
   # Trae
+  - DOMAIN-SUFFIX,byteoversea.com,US
+  - DOMAIN-SUFFIX,byteintlapi.com,US
+  - DOMAIN-SUFFIX,trae.ai,US
+  - DOMAIN-SUFFIX,trae.com.cn,US
+  - DOMAIN-SUFFIX,ctobsnssdk.com,US
+  - DOMAIN-SUFFIX,us.mchost.guru,US
+  - DOMAIN-KEYWORD,byteoversea,US
+  - DOMAIN-KEYWORD,trae,US
   - PROCESS-NAME,Trae,US
   - PROCESS-NAME,Trae Helper,US
   - PROCESS-NAME,ckg_server,US
-  - PROCESS-NAME,Electron ,US
   - PROCESS-NAME,ai,US
   - PROCESS-NAME,ai-agent,US
   - PROCESS-NAME,ai-completion,US
-  - DOMAIN-KEYWORD,byteoversea,US
-  - DOMAIN-SUFFIX,byteintlapi.com,US
-  - DOMAIN-SUFFIX,trae.ai,US
-  - DOMAIN-SUFFIX,ctobsnssdk.com,US
-  - DOMAIN-SUFFIX,us.mchost.guru,US
   # Gemini
   - DOMAIN-KEYWORD,gemini,US
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com,US

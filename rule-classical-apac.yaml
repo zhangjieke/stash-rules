@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,discord.com,APAC
   - DOMAIN-SUFFIX,pincong.rocks,APAC
   - DOMAIN-SUFFIX,botanwang.com,APAC
+  - PROCESS-NAME,copilot-language-server,APAC

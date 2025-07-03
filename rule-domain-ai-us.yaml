@@ -1,6 +1,7 @@
 payload:
   # gemini
-  - 'generativelanguage.googleapis.com'
+  - '+.generativelanguage.googleapis.com'
+  - '+.cloudcode-pa.googleapis.com'
 
     # chatgpt
   - 'chatgpt.com'

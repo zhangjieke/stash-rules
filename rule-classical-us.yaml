@@ -31,4 +31,5 @@ payload:
   # Gemini
   - DOMAIN-KEYWORD,gemini,US
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
+  - DOMAIN-SUFFIX,cloudcode-pa.googleapis.com,US
   - GEOSITE,google-deepmind,US

@@ -7,6 +7,7 @@ payload:
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,MediaCenter
   - DOMAIN-KEYWORD,emby
+  - DOMAIN,member.renzhe.cloud
   # spotify
   - IP-CIDR,35.186.224.47/24
   - IP-CIDR,104.154.127.126/24

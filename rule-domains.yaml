@@ -129,6 +129,7 @@ payload:
   - '+.googleusercontent.com'
   - '+.google'
   - '+.googlesyndication.com'
+  - '+.googlevideo.com'
   - '+.gstatic.com'
   - '+.gstatic.cn'
   - '+.recaptcha.net'

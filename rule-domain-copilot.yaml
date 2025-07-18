@@ -5,3 +5,5 @@ payload:
 
  # cursor
  - '+.cursor.sh'
+ - '+.cursorapi.com'
+ - '+.visualstudio.com'

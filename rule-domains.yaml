@@ -178,6 +178,7 @@ payload:
   - '+.auth0.com'
   - '+.deepl.com'
   - '+.tiqcdn.com'
+  - '+.cip.cc'
 
   # Reddit
   - '+.reddit.com'

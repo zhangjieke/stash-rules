@@ -3,7 +3,7 @@ payload:
   - '+.generativelanguage.googleapis.com'
   - '+.cloudcode-pa.googleapis.com'
 
-    # chatgpt
+  # chatgpt
   - 'chatgpt.com'
   - '+.chatgpt.com'
   - '+.openai.com'
@@ -20,6 +20,10 @@ payload:
   - '+.prodregistryv2.org'
   - '+.featureassets.org'
 
-    # sora.com
+  # sora.com
   - '+.sora.com'
 
+  # cursor
+  - '+.cursor.sh'
+  - '+.cursorapi.com'
+  - '+.visualstudio.com'

@@ -3,7 +3,3 @@ payload:
  - '+.github.com'
  - '+.githubusercontent.com'
 
- # cursor
- - '+.cursor.sh'
- - '+.cursorapi.com'
- - '+.visualstudio.com'

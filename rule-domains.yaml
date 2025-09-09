@@ -95,7 +95,6 @@ payload:
   - '+.fastly.net'
   - '+.docker.com'
 
-  - '+.bing.com'
   - '+.live.com'
   - '+.epicgames.com'
   - '+.newrelic.com'
@@ -201,5 +200,10 @@ payload:
   - '+.facebookmail.com'
   - '+.llama.com'
   - '+.parse.com'
+
+  # LLM
+  - '+.comfy.org'
+  - '.huggingface.co'
+  - '+.hf.co'
 
   - '+.海豚湾.com'

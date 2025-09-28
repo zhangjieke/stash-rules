@@ -1,11 +1,13 @@
 payload:
   # Edge
+  - AND,((PROCESS-NAME,Microsoft Edge),(PROTOCOL,QUIC)),US
   - PROCESS-NAME,Microsoft Edge,US
   - PROCESS-NAME,Microsoft Edge Dev,US
   - PROCESS-NAME,Microsoft Edge Helper,US
   # claude
   - DOMAIN-KEYWORD,claude,US
   # ChatGPT
+  - AND,((PROCESS-NAME,ChatGPT),(PROTOCOL,QUIC)),US
   - PROCESS-NAME,ChatGPT,US
   - DOMAIN-SUFFIX,chatgpt.com,US
   - DOMAIN-SUFFIX,openai.com,US
@@ -29,6 +31,7 @@ payload:
   - PROCESS-NAME,ai-agent,US
   - PROCESS-NAME,ai-completion,US
   # Gemini
+  - AND,((DOMAIN-KEYWORD,gemini),(PROTOCOL,QUIC)),US
   - DOMAIN-KEYWORD,gemini,US
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
   - DOMAIN-SUFFIX,cloudcode-pa.googleapis.com,US

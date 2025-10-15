@@ -24,6 +24,7 @@ payload:
   - '+.sora.com'
 
   # cursor
+  - '+.cursor.com'
   - '+.cursor.sh'
   - '+.cursorapi.com'
   - '+.visualstudio.com'

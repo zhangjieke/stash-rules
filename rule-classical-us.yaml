@@ -8,7 +8,11 @@ payload:
   - DOMAIN-KEYWORD,claude,US
   # ChatGPT
   - AND,((PROCESS-NAME,ChatGPT),(PROTOCOL,QUIC)),US
+  - AND,((PROCESS-NAME,ChatGPT Atlas),(PROTOCOL,QUIC)),US
+  - AND,((PROCESS-NAME,ChatGPT Atlas (Service)),(PROTOCOL,QUIC)),US
   - PROCESS-NAME,ChatGPT,US
+  - PROCESS-NAME,ChatGPT Atlas,US
+  - PROCESS-NAME,ChatGPT Atlas (Service),US
   - DOMAIN-SUFFIX,chatgpt.com,US
   - DOMAIN-SUFFIX,openai.com,US
   - DOMAIN-SUFFIX,us.sentry.io,US

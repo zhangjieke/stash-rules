@@ -498,3 +498,6 @@ payload:
   - '+.akamaized.net'
   - '+.afdogw.com'
   - '+.nelreports.net'
+  - '+.microsoftapp.net'
+  - '+.microsoft-falcon.io'
+  - '+.adjust.com'

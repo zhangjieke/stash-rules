@@ -3,6 +3,8 @@ payload:
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,bing
 
+  - DOMAIN-SUFFIX,adnxs.com
+  - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,heremaps.cn

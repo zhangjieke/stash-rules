@@ -49,6 +49,7 @@ payload:
  - '+.icloud-content.com.cn'
  - '+.cdngslb.com'
  - '+.aaplimg.com'
+ - '+.itunes-apple.com.akadns.net'
 
  # 百度
  - '+.baidu.com'

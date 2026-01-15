@@ -1,9 +1,9 @@
 payload:
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-KEYWORD,here
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,bing
 
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,heremaps.cn
   - DOMAIN-SUFFIX,ovi.com.cn
@@ -47,8 +47,7 @@ payload:
   - DOMAIN-SUFFIX,tryfunctions.com
   - DOMAIN-SUFFIX,windowsazure.cn
   - DOMAIN-SUFFIX,windowsazure.com
-  - DOMAIN-SUFFIX,azure.microsoft.com
-  - DOMAIN-SUFFIX,azuremarketplace.microsoft.com
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,bbing.com
   - DOMAIN-SUFFIX,bibg.com
   - DOMAIN-SUFFIX,biing.com
@@ -159,7 +158,6 @@ payload:
   - DOMAIN-SUFFIX,vfsforgit.com
   - DOMAIN-SUFFIX,vfsforgit.org
   - DOMAIN-SUFFIX,xamarin.com
-  - DOMAIN-SUFFIX,developer.microsoft.com
   - DOMAIN-SUFFIX,dtlgalleryint.cloudapp.net
   - DOMAIN-SUFFIX,poshtestgallery.cloudapp.net
   - DOMAIN-SUFFIX,psg-int-centralus.cloudapp.net

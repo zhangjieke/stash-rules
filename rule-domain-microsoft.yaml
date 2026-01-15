@@ -1,4 +1,6 @@
 payload:
+  - '+.bing.net'
+  - '+.microsoft.com'
   - '+.clarity.ms'
   - '+.heremaps.cn'
   - '+.ovi.com.cn'
@@ -42,8 +44,6 @@ payload:
   - '+.tryfunctions.com'
   - '+.windowsazure.cn'
   - '+.windowsazure.com'
-  - '+.azure.microsoft.com'
-  - '+.azuremarketplace.microsoft.com'
   - '+.bbing.com'
   - '+.bibg.com'
   - '+.biing.com'
@@ -153,7 +153,6 @@ payload:
   - '+.vfsforgit.com'
   - '+.vfsforgit.org'
   - '+.xamarin.com'
-  - '+.developer.microsoft.com'
   - '+.microsoft-online.cn'
   - '+.microsoft-online.com.cn'
   - '+.microsoftnews.cc'

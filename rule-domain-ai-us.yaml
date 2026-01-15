@@ -1,15 +1,14 @@
 payload:
   # gemini
-  - '+.generativelanguage.googleapis.com'
-  - '+.cloudcode-pa.googleapis.com'
-  - '+.safebrowsing.googleapis.com'
+  - '+.googleapis.com'
   - '+.visualstudio.com'
   - '+.vscode-cdn.net'
-  - '+.browser.events.data.microsoft.com'
+  - '+.events.data.microsoft.com'
   - '+.eclipsecontent.org'
   - '+.antigravity-unleash.goog'
   - '+.googleusercontent.com'
   - '+.exp-tas.com'
+  - '+.open-vsx.org'
   - '+.run.app'
 
   # chatgpt

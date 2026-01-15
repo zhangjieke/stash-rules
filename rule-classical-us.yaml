@@ -4,8 +4,11 @@ payload:
   - PROCESS-NAME,Microsoft Edge,US
   - PROCESS-NAME,Microsoft Edge Dev,US
   - PROCESS-NAME,Microsoft Edge Helper,US
+  - PROCESS-NAME,EdgeUpdater,US
+
   # claude
   - DOMAIN-KEYWORD,claude,US
+
   # ChatGPT
   - AND,((PROCESS-NAME,ChatGPT),(PROTOCOL,QUIC)),US
   - AND,((PROCESS-NAME,ChatGPT Atlas),(PROTOCOL,QUIC)),US

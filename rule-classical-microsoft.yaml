@@ -3,6 +3,10 @@ payload:
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,bing
 
+  - DOMAIN-SUFFIX,xboxlive.cn
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,xboxgamepass.com
   - DOMAIN-SUFFIX,adnxs.com
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,bing.net
@@ -102,7 +106,6 @@ payload:
   - DOMAIN-SUFFIX,working-bing-int.com
   - DOMAIN-SUFFIX,bj1.api.bing.com
   - DOMAIN-SUFFIX,emoi-cncdn.bing.com
-  - DOMAIN-SUFFIX,ditu.live.com
   - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,c-msedge.net
   - DOMAIN-SUFFIX,e-msedge.net
@@ -207,10 +210,8 @@ payload:
   - DOMAIN-SUFFIX,onedrive.co.uk
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onedrive.eu
-  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,onedrive.net
   - DOMAIN-SUFFIX,onedrive.org
-  - DOMAIN-SUFFIX,storage.live.com
   - DOMAIN-SUFFIX,groupme.com
   - DOMAIN-SUFFIX,skype.com
   - DOMAIN-SUFFIX,skype.net

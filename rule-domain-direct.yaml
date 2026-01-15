@@ -56,6 +56,7 @@ payload:
  - '+.bcebos.com'
  - '+.bdimg.com'
  - '+.bdstatic.com'
+ - '+.mediago.io'
 
  - '+.chinaz.com'
  - '+.digicert.com'
@@ -148,12 +149,3 @@ payload:
  - '+.zhihu.com'
  - '+.zhimg.com'
 
- # 微软中国
- - '+.outlook.office365.com'
- - '+.officeapps.live.com'
-
- # Xbox
- - '+.xboxlive.cn'
- - '+.xboxlive.com'
- - '+.gamepass.com'
- - '+.xboxgamepass.com'

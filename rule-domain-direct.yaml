@@ -2,8 +2,13 @@ payload:
 
 # 网易
  - '+.126.net'
+ - '+.127.net'
  - '+.163.com'
  - '+.netease.com'
+ - '+.gvt1.com'
+ - '+.kuiniuca.com'
+ - '+.laiqukankan.com'
+ - '+.qiezibenpao.com'
 
  # 阿里
  - '+.aliapp.org'
@@ -43,6 +48,7 @@ payload:
  - '+.icloud.com.cn'
  - '+.icloud-content.com.cn'
  - '+.cdngslb.com'
+ - '+.aaplimg.com'
 
  # 百度
  - '+.baidu.com'
@@ -62,9 +68,12 @@ payload:
  - '+.feishucdn.com'
  - '+.feishu.cn'
  - '+.zijieapi.com'
+ - '+.volcvideo.com'
+ - '+.oceanengine.com'
+ - '+.ibytedapm.com'
+
 
  - '+.geekbang.org'
-
 
  - '+.manmanbuy.com'
 
@@ -105,7 +114,6 @@ payload:
  - '+.teamviewer.com'
 
  - '+.yinxiang.com'
- - '+.aaplimg.com'
 
  # 未知
  - '+.zuyushop.com'
@@ -129,6 +137,8 @@ payload:
 
  # 金山
  - '+.ksyuncdn.com'
+ - '+.wps.cn'
+ - '+.kdocs.cn'
 
  # 沃尔玛山姆
  - '+.walmartmobile.cn'

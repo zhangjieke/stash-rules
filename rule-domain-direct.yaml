@@ -42,6 +42,7 @@ payload:
  - '+.icloud.com'
  - '+.icloud.com.cn'
  - '+.icloud-content.com.cn'
+ - '+.cdngslb.com'
 
  # 百度
  - '+.baidu.com'

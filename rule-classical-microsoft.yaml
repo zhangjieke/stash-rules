@@ -3,7 +3,9 @@ payload:
   - DOMAIN-KEYWORD,azure
   - DOMAIN-KEYWORD,bing
 
+  - DOMAIN-SUFFIX,microsoftapp.net
   - DOMAIN-SUFFIX,xboxlive.cn
+  - DOMAIN-SUFFIX,microsoft-falcon.io
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,xboxgamepass.com

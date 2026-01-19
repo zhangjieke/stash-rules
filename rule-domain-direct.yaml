@@ -9,6 +9,7 @@ payload:
  - '+.kuiniuca.com'
  - '+.laiqukankan.com'
  - '+.qiezibenpao.com'
+ - '+.kuiniuca.com'
 
  # 阿里
  - '+.aliapp.org'
@@ -124,7 +125,6 @@ payload:
  - '+.amap.com'
  - '+.189.cn'
  - '+.xinqiucc.com'
- - '+.kuiniuca.com'
  - '+.onethingpcs.com'
  - '+.umeng.com'
  - '+.myqcloud.com'

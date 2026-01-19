@@ -141,6 +141,10 @@ payload:
  - '+.ksyuncdn.com'
  - '+.wps.cn'
  - '+.kdocs.cn'
+ - '+.qwps.cn'
+ - '+.wpscdn.cn'
+ - '+.ksosoft.com'
+ - '+.ksord.com'
 
  # 沃尔玛山姆
  - '+.walmartmobile.cn'

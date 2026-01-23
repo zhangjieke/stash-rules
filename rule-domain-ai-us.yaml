@@ -10,6 +10,10 @@ payload:
   - '+.open-vsx.org'
   - '+.run.app'
 
+  # claude
+  - '+.claude.ai'
+  - '+.anthropic.com'
+
   # chatgpt
   - 'chatgpt.com'
   - '+.chatgpt.com'

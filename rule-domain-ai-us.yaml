@@ -13,6 +13,7 @@ payload:
   # claude
   - '+.claude.ai'
   - '+.anthropic.com'
+  - '+.intercom.io'
 
   # chatgpt
   - 'chatgpt.com'

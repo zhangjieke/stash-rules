@@ -9,6 +9,7 @@ payload:
   - '+.exp-tas.com'
   - '+.open-vsx.org'
   - '+.run.app'
+  - '+.gvt1.com'
 
   # claude
   - '+.claude.ai'

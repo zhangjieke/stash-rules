@@ -29,6 +29,7 @@ payload:
  - '+.taobao.com'
  - '+.tmall.com'
  - '+.aliyundrive.cloud'
+ - '+.mmstat.com'
  # 阿里-优酷
  - '+.youku.com'
  # 夸克/UC

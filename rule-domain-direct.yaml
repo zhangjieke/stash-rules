@@ -140,6 +140,7 @@ payload:
 
  # 金山
  - '+.ksyuncdn.com'
+ - '+.ksyuncs.com'
  - '+.wps.cn'
  - '+.kdocs.cn'
  - '+.qwps.cn'

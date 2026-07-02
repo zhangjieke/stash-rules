@@ -42,3 +42,7 @@ payload:
   - '+.cursorapi.com'
   - '+.cursor-cdn.com'
   - '+.visualstudio.com'
+
+  # mistral
+  - '+.mistral.ai'
+  - '+.mistral.services'

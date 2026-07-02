@@ -206,4 +206,6 @@ payload:
   - '.huggingface.co'
   - '+.hf.co'
 
+  - '+.huggingface.com'
+  - '+.glados.work'
   - '+.海豚湾.com'

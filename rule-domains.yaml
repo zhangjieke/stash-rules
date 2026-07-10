@@ -179,6 +179,7 @@ payload:
   - '+.tiqcdn.com'
   - '+.cip.cc'
   - '+.quad9.net'
+  - '+.whoer.net'
 
   # Reddit
   - '+.reddit.com'

@@ -180,6 +180,7 @@ payload:
   - '+.cip.cc'
   - '+.quad9.net'
   - '+.whoer.net'
+  - '+.sh-cloudflare.sbs'
 
   # Reddit
   - '+.reddit.com'

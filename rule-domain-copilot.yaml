@@ -2,4 +2,5 @@ payload:
  - '+.githubcopilot.com'
  - '+.github.com'
  - '+.githubusercontent.com'
+ - '+.applicationinsights.azure.com'
 
